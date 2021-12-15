@@ -12,3 +12,4 @@ No acesso remoto:
 - git remote -v
 - git branch -m main
 - git push -u origin main
+- git pull
